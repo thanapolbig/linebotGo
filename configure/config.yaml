@@ -1,0 +1,8 @@
+
+mssql :
+    databaseType    : "mssql"
+    server          : "se-linebot.cunjxvt4q8lb.ap-southeast-1.rds.amazonaws.com"
+    port            : 1433
+    user            : "admin"
+    password        : "12345678"
+    database        : "se_linebot"
