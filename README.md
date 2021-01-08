@@ -1,7 +1,7 @@
 # office-new-normal-golang
 
 GOLANG :
-IMPORT : https://gitlab.com/ohmsm0150/office-new-normal
+IMPORT : https://gitlab.com/cs_kmitl/office-new-normal-golang
 
 # LineBot
 
