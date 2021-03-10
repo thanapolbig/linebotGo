@@ -20,11 +20,8 @@ IMPORT : https://gitlab.com/cs_kmitl/office-new-normal-golang
 
 สามารถเข้าไปโหลดภาษา go ได้ที่ [golang](https://golang.org/doc/install)
 
-1. คำสั่งโหลด go 
+1. โหลด go 
 
-```bash
-pip install foobar
-```
 2. ทำการ set PATH environment ต่างๆ 
 
 ```bash
